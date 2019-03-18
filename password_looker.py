@@ -1,4 +1,3 @@
-#! python3
 # An insecure password locker program.
 
 import pyperclip
