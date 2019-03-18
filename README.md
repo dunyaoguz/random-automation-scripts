@@ -1,2 +1,2 @@
 # random-automation-scripts
-shorts scripts I've written to practice coding
+Some shorts scripts I've written to practice coding.
