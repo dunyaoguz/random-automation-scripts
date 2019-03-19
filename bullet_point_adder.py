@@ -1,4 +1,4 @@
-# adds bulletpoints to the start of each line to a copied text
+# a program that adds bulletpoints to the start of each line to a copied text
 
 import pyperclip
 

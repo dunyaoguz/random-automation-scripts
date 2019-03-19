@@ -1,4 +1,4 @@
-# An insecure password locker program.
+# an insecure password locker program
 
 import pyperclip
 
