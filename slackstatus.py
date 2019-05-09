@@ -1,3 +1,4 @@
+# script to update slack status with a random cat fact
 import os
 import sys
 import requests

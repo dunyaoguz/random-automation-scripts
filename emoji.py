@@ -1,5 +1,4 @@
 # script to update slack status with an emoji
-
 import slack
 import fire
 import os
