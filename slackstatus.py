@@ -31,4 +31,5 @@ def update_status(fact):
 
 if __name__ == '__main__':
     fact = get_cat_fact()
+    print(fact)
     update_status(fact)
